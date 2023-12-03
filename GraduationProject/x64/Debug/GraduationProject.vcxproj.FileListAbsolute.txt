@@ -1,4 +1,0 @@
-D:\GraduationProject\GraduationProject\x64\Debug\GraduationProject.vcxproj.AssemblyReference.cache
-D:\GraduationProject\GraduationProject\x64\Debug\GraduationProject.MainForm.resources
-D:\GraduationProject\GraduationProject\x64\Debug\GraduationProject.vcxproj.GenerateResource.cache
-D:\GraduationProject\GraduationProject\x64\Debug\GraduationProject.CalibrationForm.resources
